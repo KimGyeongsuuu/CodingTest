@@ -1,4 +1,4 @@
-package baekjoon.datastructure_7785;
+package baekjoon.datastructure.datastructure_7785;
 
 import java.io.*;
 import java.util.*;

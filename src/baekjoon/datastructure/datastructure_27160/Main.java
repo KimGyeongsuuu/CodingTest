@@ -1,4 +1,4 @@
-package baekjoon.datastructure_27160;
+package baekjoon.datastructure.datastructure_27160;
 
 import java.util.HashMap;
 import java.util.Scanner;

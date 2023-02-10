@@ -1,7 +1,6 @@
-package baekjoon.datastructure_10845;
+package baekjoon.datastructure.datastructure_10845;
 
 import java.io.*;
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;

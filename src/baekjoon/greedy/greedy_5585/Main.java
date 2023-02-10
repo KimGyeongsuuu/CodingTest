@@ -1,4 +1,4 @@
-package baekjoon.greedy_5585;
+package baekjoon.greedy.greedy_5585;
 
 import java.io.BufferedReader;
 import java.io.IOException;

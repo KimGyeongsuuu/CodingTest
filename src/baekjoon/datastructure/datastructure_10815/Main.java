@@ -1,4 +1,4 @@
-package baekjoon.datastructure_10815;
+package baekjoon.datastructure.datastructure_10815;
 
 import java.io.*;
 import java.util.Arrays;

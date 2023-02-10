@@ -1,4 +1,4 @@
-package baekjoon.datastructure_17608;
+package baekjoon.datastructure.datastructure_17608;
 
 import java.io.*;
 import java.util.Scanner;
