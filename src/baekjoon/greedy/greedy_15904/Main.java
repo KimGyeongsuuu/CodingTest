@@ -8,7 +8,6 @@ public class Main {
         String str = sc.nextLine();
         char[] UCPC = {'U','C','P','C'};
         int result = 0;
-        StringBuilder sb = new StringBuilder();
         for (int i = 0;i<str.length();i++){
             if(str.charAt(i)==UCPC[result]){
                 result++;
